@@ -12,6 +12,8 @@
 ## Cositas Varias
 
 - [Make a Readme](https://readme.so/)
+- [de SVG a react](https://transform.tools/)
+-   de json a interface in TypeScript
 - [Libros de Programacion Gratuito](https://books.goalkicker.com/)
 - [Documentacion Lenguajes:](https://devdocs.io/) Angular, Spring Boot, PostgresQL
 - [Para cuando la cagues con Git](https://ohshitgit.com/es)
