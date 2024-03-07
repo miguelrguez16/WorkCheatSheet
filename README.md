@@ -14,6 +14,7 @@
 - [Make a Readme](https://readme.so/)
 - [de SVG a react](https://transform.tools/)
 -   de json a interface in TypeScript
+- [Optimizar SVG](https://jakearchibald.github.io/svgomg/)
 - [Libros de Programacion Gratuito](https://books.goalkicker.com/)
 - [Documentacion Lenguajes:](https://devdocs.io/) Angular, Spring Boot, PostgresQL
 - [Para cuando la cagues con Git](https://ohshitgit.com/es)
@@ -27,6 +28,7 @@
 - [Mapas Conceptuales o Esquemas bien Guapos](https://www.mindmeister.com/)
 - [Documentación server-world](https://www.server-world.info/en/): configuración y guías para todo
 - [REGEX](https://regex101.com/)
+- [Starship CMD POWER](https://starship.rs/)
 
 ## Ilustraciones SVG
 
