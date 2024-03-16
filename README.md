@@ -12,11 +12,11 @@
 ## Cositas Varias
 
 - [Make a Readme](https://readme.so/)
-- [de SVG a react](https://transform.tools/)
--   de json a interface in TypeScript
+- [de SVG a react](https://transform.tools/) de json a interface in TypeScript
 - [Optimizar SVG](https://jakearchibald.github.io/svgomg/)
 - [Libros de Programacion Gratuito](https://books.goalkicker.com/)
 - [Documentacion Lenguajes:](https://devdocs.io/) Angular, Spring Boot, PostgresQL
+- [Documentación hooks React y más](https://component-party.dev/)
 - [Para cuando la cagues con Git](https://ohshitgit.com/es)
 - [Maker de Perfil de Github](https://gprm.itsvg.in/)
 - [The Book of Secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge#readme)
