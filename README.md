@@ -2,6 +2,7 @@
 
 - [WorkCheatSheet](#workcheatsheet)
   - [Cositas Varias](#cositas-varias)
+  - [Tutoriales](#tutoriales)
   - [Ilustraciones SVG](#ilustraciones-svg)
   - [Ejemplos de diseños de paginas web](#ejemplos-de-diseños-de-paginas-web)
     - [Paletas CSS](#paletas-css)
@@ -30,6 +31,10 @@
 - [REGEX](https://regex101.com/)
 - [Starship CMD POWER](https://starship.rs/)
 
+## Tutoriales
+
+- [Freecodecamp build a webpack app](https://www.freecodecamp.org/news/creating-a-production-ready-webpack-4-config-from-scratch/)
+ 
 ## Ilustraciones SVG
 
 - [Undraw - Gratuito](https://undraw.co/illustrations): Ilustraciones de todo tipo gratuitas
@@ -44,8 +49,8 @@
 ## Ejemplos de diseños de paginas web
 
 - [awwwards - Plantillas](https://www.awwwards.com/)
-- [savee - Plantillas](https://savee.it/)
-- [dribbble - Inspiración](https://dribbble.com/)
+- [Savee - Plantillas](https://savee.it/)
+- [Dribbble - Inspiración](https://dribbble.com/)
 - [Ejemplos de html responsive](https://html5up.net)
 
 ### Paletas CSS
@@ -68,3 +73,5 @@
 ### Layout grid y flex CSS
 
 - [grid layout and flex](https://layout.bradwoods.io/)
+- [Esquema Sobre grid](https://grid.malven.co/)
+- [Esquema Sobre flex](https://flexbox.malven.co/)
